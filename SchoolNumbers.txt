@@ -1,0 +1,28 @@
+Whitney : 24
+LakeView : 1
+Lane : 35
+Payton : 7
+Rachel Carson : 1
+Hamilton : 2
+Rickover : 2
+John Hancock : 4
+Amundsen : 3
+Mark Sheridan : 1
+Skinner North : 1
+Uplift : 1
+Abraham Lincoln Elementary : 2
+Skinner West : 1
+Jones : 2
+Northside : 5
+Arturo : 1
+Curie : 3
+North Grand High School : 3
+Edison Gifted : 1
+Medgar Evers : 1
+Phoenix Military : 1
+Chicago Tech Academy : 3
+Audubon : 1
+Rickover : 1
+Taft : 9
+Haines : 1
+Untracked : 1
